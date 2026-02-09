@@ -1,0 +1,7 @@
+{
+  "name": "Right Click to Pin",
+  "description": "Right-click a window in the overview to fix/unfix it to all workspaces.",
+  "uuid": "right-click-to-pin@orrot",
+  "shell-version": ["45", "46", "47", "48", "49"],
+  "url": ""
+}
